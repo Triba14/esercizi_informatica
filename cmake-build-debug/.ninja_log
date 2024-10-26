@@ -1,0 +1,5 @@
+# ninja log v6
+38	73	1729955507499061784	esercizi_informatica	971f37c4f78f15fa
+1	33	1729955319700541807	CMakeFiles/esercizi_informatica.dir/main.c.o	cd4f01fcfa51f1ff
+1	38	1729955507461061477	CMakeFiles/esercizi_informatica.dir/second_exercise.c.o	f7380e81363d816f
+0	26	1729955869126972429	build.ninja	6048f59699d0c60
