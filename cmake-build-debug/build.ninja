@@ -49,8 +49,8 @@ cmake_ninja_workdir = /home/triba/CLionProjects/esercizi_informatica/cmake-build
 
 build cmake_object_order_depends_target_esercizi_informatica: phony || .
 
-build CMakeFiles/esercizi_informatica.dir/second_exercise.c.o: C_COMPILER__esercizi_informatica_unscanned_Debug /home/triba/CLionProjects/esercizi_informatica/second_exercise.c || cmake_object_order_depends_target_esercizi_informatica
-  DEP_FILE = CMakeFiles/esercizi_informatica.dir/second_exercise.c.o.d
+build CMakeFiles/esercizi_informatica.dir/third_exercise.c.o: C_COMPILER__esercizi_informatica_unscanned_Debug /home/triba/CLionProjects/esercizi_informatica/third_exercise.c || cmake_object_order_depends_target_esercizi_informatica
+  DEP_FILE = CMakeFiles/esercizi_informatica.dir/third_exercise.c.o.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles/esercizi_informatica.dir
   OBJECT_FILE_DIR = CMakeFiles/esercizi_informatica.dir
@@ -63,7 +63,7 @@ build CMakeFiles/esercizi_informatica.dir/second_exercise.c.o: C_COMPILER__eserc
 #############################################
 # Link the executable esercizi_informatica
 
-build esercizi_informatica: C_EXECUTABLE_LINKER__esercizi_informatica_Debug CMakeFiles/esercizi_informatica.dir/second_exercise.c.o
+build esercizi_informatica: C_EXECUTABLE_LINKER__esercizi_informatica_Debug CMakeFiles/esercizi_informatica.dir/third_exercise.c.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/esercizi_informatica.dir
   POST_BUILD = :
