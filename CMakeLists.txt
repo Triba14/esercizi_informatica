@@ -5,4 +5,5 @@ set(CMAKE_C_STANDARD 11)
 
 add_executable(esercizi_informatica /*main.c*/
         /*second_exercise.c*/
-        third_exercise.c)
+        /*third_exercise.c*/
+        fourth_exercise.c)
