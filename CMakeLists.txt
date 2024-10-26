@@ -3,4 +3,5 @@ project(esercizi_informatica C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(esercizi_informatica main.c)
+add_executable(esercizi_informatica /*main.c*/
+        second_exercise.c)
