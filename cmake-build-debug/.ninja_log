@@ -1,9 +1,14 @@
 # ninja log v6
-0	36	1729957650892907505	CMakeFiles/esercizi_informatica.dir/fourth_exercise.c.o	180023f92a99ad48
-1	29	1729958617686304475	CMakeFiles/esercizi_informatica.dir/fifth_exercise.c.o	bad0116713fdfbb6
-1	46	1729956521305195294	CMakeFiles/esercizi_informatica.dir/third_exercise.c.o	c9709d61152ad89e
-0	26	1729958637134467677	build.ninja	6048f59699d0c60
-1	38	1729955507461061477	CMakeFiles/esercizi_informatica.dir/second_exercise.c.o	f7380e81363d816f
+0	31	1729961511093052189	CMakeFiles/esercizi_informatica.dir/seventh_exercise.c.o	984014d35f373971
+1	32	1729963042889856106	CMakeFiles/esercizi_informatica.dir/ninth_exercise.c.o	68daba5c1a5f8f5b
+32	59	1729963042920856310	esercizi_informatica	f3d3c92e99ccf8df
 1	33	1729955319700541807	CMakeFiles/esercizi_informatica.dir/main.c.o	cd4f01fcfa51f1ff
-29	56	1729958617714304710	esercizi_informatica	a4352003596f48f4
-1	20	1729958637134467677	build.ninja	6048f59699d0c60
+0	34	1729962019421752757	CMakeFiles/esercizi_informatica.dir/eighth_exercise.c.o	117dbce10a61094e
+1	38	1729955507461061477	CMakeFiles/esercizi_informatica.dir/second_exercise.c.o	f7380e81363d816f
+1	29	1729959366198541704	CMakeFiles/esercizi_informatica.dir/sixth_exercise.c.o	e227dd3aa4f055ff
+1	19	1729963203720919215	build.ninja	6048f59699d0c60
+1	46	1729956521305195294	CMakeFiles/esercizi_informatica.dir/third_exercise.c.o	c9709d61152ad89e
+1	29	1729958617686304475	CMakeFiles/esercizi_informatica.dir/fifth_exercise.c.o	bad0116713fdfbb6
+0	36	1729957650892907505	CMakeFiles/esercizi_informatica.dir/fourth_exercise.c.o	180023f92a99ad48
+1	31	1729963424334660435	CMakeFiles/esercizi_informatica.dir/tenth_exercise.c.o	467eec2f03d8800d
+32	60	1729963424365660962	esercizi_informatica	82fbd9fc3d76b3f8
