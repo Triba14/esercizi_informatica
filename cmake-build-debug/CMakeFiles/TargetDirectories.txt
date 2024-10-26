@@ -1,0 +1,3 @@
+/home/triba/CLionProjects/esercizi_informatica/cmake-build-debug/CMakeFiles/esercizi_informatica.dir
+/home/triba/CLionProjects/esercizi_informatica/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/triba/CLionProjects/esercizi_informatica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
