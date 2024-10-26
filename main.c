@@ -1,3 +1,5 @@
+/* First exercise*/
+
 #include <stdio.h>
 
 int main() {
