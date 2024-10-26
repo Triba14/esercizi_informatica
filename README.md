@@ -1,1 +1,1 @@
-repo which contains the first exercises in c language
+Repo which contains the first exercises in c language
