@@ -5,5 +5,4 @@
 int main() {
     int sum = FIRST_NUMBER + SECOND_NUMBER;
     printf("The sum is %d\n", sum);
-
 }
